@@ -1,0 +1,14 @@
+/Users/cameronottley/Documents/Code Projects/InterfacePractice/InterfacePractice/bin/Debug/net8.0/InterfacePractice
+/Users/cameronottley/Documents/Code Projects/InterfacePractice/InterfacePractice/bin/Debug/net8.0/InterfacePractice.deps.json
+/Users/cameronottley/Documents/Code Projects/InterfacePractice/InterfacePractice/bin/Debug/net8.0/InterfacePractice.runtimeconfig.json
+/Users/cameronottley/Documents/Code Projects/InterfacePractice/InterfacePractice/bin/Debug/net8.0/InterfacePractice.dll
+/Users/cameronottley/Documents/Code Projects/InterfacePractice/InterfacePractice/bin/Debug/net8.0/InterfacePractice.pdb
+/Users/cameronottley/Documents/Code Projects/InterfacePractice/InterfacePractice/obj/Debug/net8.0/InterfacePractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cameronottley/Documents/Code Projects/InterfacePractice/InterfacePractice/obj/Debug/net8.0/InterfacePractice.AssemblyInfoInputs.cache
+/Users/cameronottley/Documents/Code Projects/InterfacePractice/InterfacePractice/obj/Debug/net8.0/InterfacePractice.AssemblyInfo.cs
+/Users/cameronottley/Documents/Code Projects/InterfacePractice/InterfacePractice/obj/Debug/net8.0/InterfacePractice.csproj.CoreCompileInputs.cache
+/Users/cameronottley/Documents/Code Projects/InterfacePractice/InterfacePractice/obj/Debug/net8.0/InterfacePractice.dll
+/Users/cameronottley/Documents/Code Projects/InterfacePractice/InterfacePractice/obj/Debug/net8.0/refint/InterfacePractice.dll
+/Users/cameronottley/Documents/Code Projects/InterfacePractice/InterfacePractice/obj/Debug/net8.0/InterfacePractice.pdb
+/Users/cameronottley/Documents/Code Projects/InterfacePractice/InterfacePractice/obj/Debug/net8.0/InterfacePractice.genruntimeconfig.cache
+/Users/cameronottley/Documents/Code Projects/InterfacePractice/InterfacePractice/obj/Debug/net8.0/ref/InterfacePractice.dll
